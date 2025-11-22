@@ -2,7 +2,16 @@
   <img src="https://raw.githubusercontent.com/TouhouGleaners/danmaku-sender/refs/heads/main/assets/icon.ico" alt="THRD Logo" width="200">
 </p>
 
-<h1 align="center">欢迎来到 Touhou Gleaners (Teahouse of Recollected Dreams)</h1>
+<h1 align="center">THRD | 拾遗梦茶馆</h1>
+<h3 align="center">Teahouse of Recollected Dreams</h3>
+
+<p align="center">
+  <em>GitHub Organization ID: <strong>TouhouGleaners</strong></em>
+  <br>
+  <em>在这里，我们化身为“拾穗者”，拾起那些散落的梦想与记忆。</em>
+</p>
+
+<br>
 
 <p align="center">
   我们是一个专注于《东方Project》相关内容的爱好者社区，致力于恢复B站上失效的东方视频、开发和分享有用的工具与数据，并探索东方Project的无限可能。
@@ -22,8 +31,8 @@
 ## 🎯 我们的方向 (Our Focus)
 
 我们致力于：
-*   **工具开发 (Tool Development)**：为《东方Project》爱好者开发实用的工具，例如弹幕发射器、数据分析工具等。
-*   **数据归档与展示 (Data Archiving & Showcase)**：收集、整理和展示与《东方Project》相关的数据，如视频数据、弹幕文件等。
+*   **工具开发 (Tool Development)**：为《东方Project》爱好者与弹幕补档者开发实用的工具，例如弹幕发射器、数据分析工具等。
+*   **数据归档与展示 (Data Archiving & Showcase)**：收集、整理和展示Bilibili上与《东方Project》相关的数据，如视频数据、弹幕文件等。
 
 ---
 
@@ -43,13 +52,13 @@
 我们非常欢迎来自社区的贡献！无论您是开发者、测试者还是提供建议，都是对我们宝贵的支持。
 
 1.  **发现 Bug 或有新想法？**
-    *   请直接到对应项目的 **[Issues](https://github.com/TouhouGleaners/danmaku-sender/issues)** 页面提交您的问题或建议。
+    * 请直接到对应项目的 **[Issues](https://github.com/TouhouGleaners/danmaku-sender/issues)** 页面提交您的问题或建议。
 
 2.  **想提交代码？**
     *   Fork 您感兴趣的仓库。
-    *   创建一个新的分支 (`git checkout -b feature/AmazingFeature`)。
-    *   提交您的更改 (`git commit -m 'Add some AmazingFeature'`)。
-    *   将分支推送到您的 Fork (`git push origin feature/AmazingFeature`)。
+    *   创建一个新的分支 (`git checkout -b feat/amazing-feature`)。
+    *   提交您的更改 (`git commit -m 'Add some amazing feature'`)。
+    *   将分支推送到您的 Fork (`git push origin feat/amazing-feature`)。
     *   提交一个 **Pull Request**。
 
 ---
